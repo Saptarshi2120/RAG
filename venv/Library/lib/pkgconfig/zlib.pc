@@ -1,0 +1,13 @@
+prefix=K:/PROJECTS/NLP/ChatWithPDF/venv/Library
+exec_prefix=K:/PROJECTS/NLP/ChatWithPDF/venv/Library
+libdir=K:/PROJECTS/NLP/ChatWithPDF/venv/Library/lib
+sharedlibdir=K:/PROJECTS/NLP/ChatWithPDF/venv/Library/lib
+includedir=K:/PROJECTS/NLP/ChatWithPDF/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
