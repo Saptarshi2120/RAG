@@ -88,6 +88,10 @@ The chatbot uses state-of-the-art machine learning models like Gemini and FAISS 
 - Improve the conversational flow and context retention across multiple questions.
 - Implement a feedback mechanism to refine answer quality.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
